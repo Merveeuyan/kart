@@ -1,0 +1,38 @@
+body {
+    background-color: white;
+
+}
+ .kart1 {
+    background-image: url(resimler/kartresim.jpg);
+    background-size: cover;
+    display: inline-block;
+    height: 400px;
+    width: 200px;
+    border-radius: 15px;
+    box-shadow: 0 20px 20px gray;
+    text-align: center;
+    float: left;
+    margin: 20px;
+    
+}
+div img {
+    border-radius: 50%;
+    margin-top: 100px;
+    border: 5px solid rgb(236, 164, 156);
+}
+.container {
+    background-color: rgb(236, 164, 156);
+    margin-top: 62px;
+    height: 100px;
+    border-radius: 15px;
+}
+h1 {
+    font-size: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgb(20, 95, 95);
+}
+p {
+    font-size: 15px;
+    color: rgb(47, 132, 132);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
